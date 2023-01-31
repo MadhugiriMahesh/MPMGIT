@@ -9,6 +9,7 @@ public class HelloWorld {
 		System.out.println("Hello Word! Mahesh - Remote for second time");
 		System.out.println("Hello Word! Mahesh - Remote for third time");
 		System.out.println("Hello Word! Mahesh - Local");
+		System.out.println("Hello Word! Mahesh - Local newmpm");
 
 	}
 }
